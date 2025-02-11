@@ -64,7 +64,7 @@ const Footer = () => {
             </div>
 
             <div className="mb-[20px] text-[15px] text-center">
-                &copy; Sahil Yadav 2023 Inc. All rights reserved
+                &copy; Sahil Yadav 2025 Inc. All rights reserved
             </div>
         </div>
     </div>

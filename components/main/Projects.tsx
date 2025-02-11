@@ -12,19 +12,20 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
         <ProjectCard
-          src="/NextWebsite.png"
-          title="Modern Next.js Portfolio"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/project-1.png"
+          title="Ongc Training Portal"
+          description="The ONGC Training Project, built with Next.js, offers a fast, responsive, and interactive platform for learning"
         />
         <ProjectCard
-          src="/CardImage.png"
-          title="Interactive Website Cards"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          src="/project-2.png"
+          title="Interactive Ecommerce "
+          description="The eCommerce platform, built with React and MongoDB, offers fast, scalable, and interactive online shopping experiences."
         />
+      
         <ProjectCard
           src="/SpaceWebsite.png"
           title="Space Themed Website"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Portfolio built with Framer Motion, Three.js, and TypeScript, showcasing interactive, dynamic, and visually stunning projects."
         />
       </div>
     </div>
